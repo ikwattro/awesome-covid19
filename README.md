@@ -3,15 +3,15 @@
 ## Collection of Tech Resources and Initiatives around `COVID19 - Coronavirus`
 
 
-### Knowledge Graphs
+### Knowledge Graphs
 
 * COVID GRAPH : Knowledge Graph on COVID19 ( https://covidgraph.org/ )
 
-### Hackathons
+### Hackathons
 
 * Graphs4Good : https://medium.com/neo4j/graphhackers-lets-unite-to-help-save-the-world-graphs4good-2020-fed53562b41f
 
-### Search
+### Search
 
 * Lucene based search engine atop the CORD-19 dataset : https://rhapsode.covid19data.space/rhapsode/
 
