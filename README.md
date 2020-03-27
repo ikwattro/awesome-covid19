@@ -1,5 +1,7 @@
 # Awesome COVID19 - Coronavirus
 
+CONTRIBUTIONS WELCOME VIA PULL REQUEST !
+
 ## Collection of Tech Resources and Initiatives around `COVID19 - Coronavirus`
 
 
