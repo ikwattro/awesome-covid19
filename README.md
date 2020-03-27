@@ -1,6 +1,6 @@
 # Awesome COVID19 - Coronavirus
 
-## Collection of Tech Resources and Initiatives around `COVID19 - Coronavirus`
+## Collection of Tech Resources and Initiatives around `COVID19 - Coronavirus`
 
 
 ### Knowledge Graphs
